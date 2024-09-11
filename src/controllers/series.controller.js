@@ -1,4 +1,4 @@
-const series = require('../../data/series.json')
+const series = require('../data/series.json')
 const controller = {}
 controller.series = series
 
